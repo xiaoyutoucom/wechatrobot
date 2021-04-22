@@ -5,4 +5,4 @@
 源码地址:https://gitee.com/xiaoyutou_647/wechat-auto-reply-robot/blob/master/README.md
 直接打开\Setup1\setup.exe即可安装 需要安装的环境已经集成
 ![image](https://user-images.githubusercontent.com/20367402/115661416-fca06700-a36f-11eb-8265-233d6bef4d2b.png)
-![Uploading image.png…]()
+![image](https://user-images.githubusercontent.com/20367402/115661483-15108180-a370-11eb-96f5-da794900c6fb.png)
